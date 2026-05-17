@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello!!
 
+I am Nugst! (they/them)
+Some badges:
+https://www.mtype.cc/badge/nugt
+
+Socials:
+@nugst. on Discord
+Nugst on Geometry Dash
+yeah... i dont really got anything else
 <!--
 **NuggestNug/NuggestNug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
