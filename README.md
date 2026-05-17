@@ -8,7 +8,10 @@ Some badges:
 
 Socials:
 @nugst. on Discord
+
 Nugst on Geometry Dash
+
+NuggestNugget on Roblox
 yeah... i dont really got anything else
 <!--
 **NuggestNug/NuggestNug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
