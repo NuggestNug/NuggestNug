@@ -1,7 +1,9 @@
 ## Hello!!
 
 I am Nugst! (they/them)
+
 Some badges:
+
 <img src="https://mtype.cc/badge/nugt" alt="mtype" height="28">
 
 Socials:
