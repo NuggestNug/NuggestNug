@@ -2,7 +2,7 @@
 
 I am Nugst! (they/them)
 Some badges:
-https://www.mtype.cc/badge/nugt
+<img src="https://mtype.cc/badge/nugt" alt="mtype" height="28">
 
 Socials:
 @nugst. on Discord
